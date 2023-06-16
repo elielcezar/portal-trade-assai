@@ -1,0 +1,19 @@
+name = portaltrade
+description = Tema exclusivo para Megamidia
+package = Core
+version = VERSION
+core = 7.x
+
+regions[header] = Header
+regions[header-extras] = Header Extras
+regions[extras] = Extras
+regions[content] = Content
+regions[footer] = Footer
+
+stylesheets[all][] = css/geral.css
+
+scripts[] = js/scripts.js
+
+version = "7.12"
+project = "drupal"
+datestamp = "1328134560"
