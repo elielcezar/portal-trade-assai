@@ -3,7 +3,10 @@
 ?>
 <section id="content">
 
-  <?php print $messages; ?> 
+  <?php print $messages; ?>
+
+  
+  
   
 
   <?php if (!empty($tabs)): ?>

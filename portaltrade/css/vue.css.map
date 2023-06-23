@@ -1,1 +1,9 @@
-{"version":3,"sources":["vue.scss","vue.css"],"names":[],"mappings":"AAEE;EACE,eAAA;ACDJ","file":"vue.css"}
+{
+    "version": 3,
+    "mappings": "AACA,AACE,aADW,CACX,IAAI,CAAC;EACH,OAAO,EAAE,MAAM;CAGZ",
+    "sources": [
+        "vue.scss"
+    ],
+    "names": [],
+    "file": "vue.css"
+}

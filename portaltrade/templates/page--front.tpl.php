@@ -8,8 +8,8 @@ include "header.tpl.php";
     <img src="<?php print base_path() . path_to_theme() . '/' ?>img/banner-home-desk.jpg" class="desktop" alt="">
   </div>
   <div class="tagline">
-    <div class="container">
-      <p>As últimas notícias do varejo e <strong>as melhores oportunidades para sua marca</strong> estão aqui</p>
+    <div class="container">      
+      <p>As últimas notícias do varejo e <strong>as melhores oportunidades em<br/>retail media para sua marca</strong> estão aqui</p>
     </div>
   </div>
 </section>
@@ -29,11 +29,11 @@ include "header.tpl.php";
         </div>
       </div>
       <div class="item oportunidades">
-        <a href="<?php print base_path(); ?>oportunidades"><img src="<?php print base_path() . path_to_theme() . '/' ?>img/oportunidades-home.jpg" alt=""></a>
+        <a href="<?php print base_path(); ?>retail-media"><img src="<?php print base_path() . path_to_theme() . '/' ?>img/oportunidades-home.jpg" alt=""></a>
         <div class="info">
-          <h3>Oportunidades</h3>
+          <h3>Retail Media</h3>
           <p>Conheça as oportunidades de mídia nas lojas Assaí, destaque seu produto e potencialize suas vendas. </p>
-          <a href="<?php print base_path(); ?>oportunidades" class="btn">Veja mais!</a>
+          <a href="<?php print base_path(); ?>retail-media" class="btn">Veja mais!</a>
         </div>
       </div>
       <div class="item pordentro">
